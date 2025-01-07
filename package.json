@@ -137,7 +137,7 @@
   "jest": {
     "rejectFrontendNetworkRequests": true
   },
-  "packageManager": "yarn@3.8.1",
+  "packageManager": "yarn@1.22.22",
   "engines": {
     "node": "20 || 22"
   }
