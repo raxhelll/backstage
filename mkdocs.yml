@@ -5,7 +5,7 @@ edit_uri: edit/master/docs
 
 plugins:
   - techdocs-core
-  - mkdocs-redirects:
+  - redirects:
       redirect_maps:
         'index.md': 'overview/what-is-backstage.md'
 
